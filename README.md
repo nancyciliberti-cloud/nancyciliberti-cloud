@@ -1,4 +1,6 @@
-## Hi there 👋 I am Nancy. I’m currently working on learning more about how to embed ai in integrated marketing campaigns. I’m currently learning about use cases for ai and agentic workflows 
+## Hi there 👋 I am Nancy. 
+
+I’m currently working on learning more about how to embed ai in integrated marketing campaigns. I’m currently learning about use cases for ai and agentic workflows 
 
 <!--
 **nancyciliberti-cloud/nancyciliberti-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
